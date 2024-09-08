@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://vk.com/ashirovaadi">
-    <img src="https://img.shields.io/badge/Vk-blue?logo=Vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
+    <img src="https://img.shields.io/badge/Vk-coral?logo=Vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
   </a>
   <a href="https://t.me/kykysik_01">
     <img src="https://img.shields.io/badge/Telegram-turquoise?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
