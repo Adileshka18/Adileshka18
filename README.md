@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNsNGR4cHhkbXU5M2E0M2V3cWR4aTlzanBva2pmdnBwdDN2ZDQzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QXPqYpSyBIMjBTtBbl/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://vk.com/ashirovaadi">
     <img src="https://img.shields.io/badge/Vk-blue?logo=Vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
   </a>
@@ -10,8 +10,10 @@
     <img src="https://img.shields.io/badge/Telegram-turquoise?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adileshka18&style=flat-square&color=blue" alt=""/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Adileshka18&style=flat-square&color=blue" alt=""/>
 
 <h1>
   Hello everyone
