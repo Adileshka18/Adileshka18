@@ -31,4 +31,4 @@ I am from Simferopol and i am a student of KIPU.
 
 - I now such programming languages as Python, C++.
 
-### :hammer_and_wrench: Languages and Tools :
+
