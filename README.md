@@ -29,6 +29,6 @@ I am from Simferopol and i am a student of KIPU.
 
 - In my free time, i go out with my friends or go dancing.
 
-- I now such programming languages as Python, C++.
+- I know such programming languages as Python, C++.
 
 
