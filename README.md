@@ -44,7 +44,8 @@ I am from Simferopol and i am a student of KIPU.
 
   
 ## 📊 My Stats :
-![contributions](https://github-readme-streak-stats.herokuapp.com/?user=Adileshka18&theme=radical)
+![Adile GitHub stats](https://github-readme-stats.vercel.app/api?username=Adileshka18&show_icons=true&theme=onedark)
+![Adile GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Adileshka18&theme=radical)
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Adileshka18&show_icons=true&theme=radical)
 
 ![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Adileshka18&layout=compact&theme=radical)
